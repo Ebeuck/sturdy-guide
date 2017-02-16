@@ -39,3 +39,6 @@ closeness(org)
 #creating the geodesic path count and distance matrix
 #Interpretation of geodist:
 geodist(org)
+
+######
+#To Do: Add in information about interpretation of the tests
